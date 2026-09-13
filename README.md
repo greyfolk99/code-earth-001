@@ -1,4 +1,5 @@
 # CODE EARTH — 지금, 지구
+<img width="2391" height="1034" alt="image" src="https://github.com/user-attachments/assets/f641b00d-8b7e-43f2-9a9b-ce99b046afda" />
 
 NASA 위성과 기상 예보 데이터로 그리는 실시간 인터랙티브 지구.
 전투기 HUD 감성의 지구본 위에 지금 이 순간의 기상·위성·지정 데이터를 얹었습니다.
