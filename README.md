@@ -1,4 +1,4 @@
-# CODE EARTH — 지금, 지구
+# CODE EARTH 001 — 지금, 지구
 <img width="2391" height="1034" alt="image" src="https://github.com/user-attachments/assets/f641b00d-8b7e-43f2-9a9b-ce99b046afda" />
 <img width="2392" height="1032" alt="image" src="https://github.com/user-attachments/assets/5a099aa2-f1a8-40ab-9c42-8625fae51591" />
 
