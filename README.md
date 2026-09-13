@@ -1,8 +1,9 @@
 # CODE EARTH — 지금, 지구
 <img width="2391" height="1034" alt="image" src="https://github.com/user-attachments/assets/f641b00d-8b7e-43f2-9a9b-ce99b046afda" />
+<img width="2392" height="1032" alt="image" src="https://github.com/user-attachments/assets/5a099aa2-f1a8-40ab-9c42-8625fae51591" />
 
 NASA 위성과 기상 예보 데이터로 그리는 실시간 인터랙티브 지구.
-전투기 HUD 감성의 지구본 위에 지금 이 순간의 기상·위성·지정 데이터를 얹었습니다.
+우주선 HUD 감성의 지구본 위에 지금 이 순간의 기상·위성·지정 데이터를 얹었습니다.
 
 ### 🌐 라이브 데모 → **https://code-earth-001.vercel.app**
 
